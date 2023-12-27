@@ -2,7 +2,10 @@ django
 gunicorn
 python-dotenv
 whitenoise
-django-admin-soft-dashboard==1.0.11
+django-import-export
+pillow
+git+https://github.com/JoseLArantes/django-admin-soft-dashboard.git
+
 
 # psycopg2-binary
 # mysqlclient
